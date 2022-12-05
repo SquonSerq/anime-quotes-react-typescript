@@ -2,7 +2,7 @@
 ## Page preview
 ![Page preview](/readme/page-example.png)
 ## Video preview
-[![Watch the video](https://img.youtube.com/vi/H4QfaSYLsYc/maxresdefault.jpg)](https://youtu.be/H4QfaSYLsYc)
+![Gif preview](/readme/gif-preview.gif)
 ## Description
 Pet project written with React and Typescript. Spent a couple evenings writing it.
 ## How to setup
