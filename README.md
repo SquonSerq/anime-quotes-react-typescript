@@ -1,8 +1,8 @@
 # Anime quotes in React + Typescript using Animechan
 ## Page preview
-![Page preview][/readme/page-example.png]
+![Page preview](/readme/page-example.png)
 ## Video preview
-![Watch the video][https://img.youtube.com/vi/H4QfaSYLsYc/maxresdefault.jpg][https://youtu.be/H4QfaSYLsYc]
+[![Watch the video](https://img.youtube.com/vi/H4QfaSYLsYc/maxresdefault.jpg)](https://youtu.be/H4QfaSYLsYc)
 ## Description
 Pet project written with React and Typescript. Spent a couple evenings writing it.
 ## How to setup
