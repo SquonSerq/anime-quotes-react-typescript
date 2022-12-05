@@ -10,5 +10,6 @@ For project to work it is needed to get RapidAPI for [Binq image api](https://ra
 
 To start project, type in terminal:
 ```
+npm install
 npm start
 ```
